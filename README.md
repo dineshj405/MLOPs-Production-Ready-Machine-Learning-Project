@@ -10,13 +10,25 @@
 
 
 # Git commands
-'''
+```
 git add .
 
 git commit -m "Updated"
 
 git push origin main
-'''
+```
+
+
+------------------------------------------------------------------------
+
+## 📝 Git Commands
+
+``` bash
+git add .
+git commit -m "Updated"
+git push origin main
+```
+
 
 
 # How to run?
